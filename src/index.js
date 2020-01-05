@@ -5,6 +5,8 @@ import './style.scss'
 
 console.log("Hoge");
 
+alert('hogehoge');
+
 ReactDOM.render(
   <div>Hello, React!</div>,
   document.getElementById('root')
